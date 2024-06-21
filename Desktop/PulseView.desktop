@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PulseView
+Comment=Control your logic analyzer, oscilloscope, or MSO
+Exec=pulseview
+Icon=pulseview
+Path=
+Terminal=false
+StartupNotify=false
