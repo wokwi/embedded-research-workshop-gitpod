@@ -1,12 +1,15 @@
 image:
   file: .gitpod.Dockerfile
+
 ports:
 - port: 6080
   onOpen: open-preview
 - port: 5900
   onOpen: ignore
+
 tasks:
-- command: xtermxfce4-terminal
+- command: xfce4-terminal
+
 vscode:
   extensions:
     - Wokwi.wokwi-vscode
